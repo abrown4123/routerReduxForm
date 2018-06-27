@@ -12,3 +12,4 @@ export function fetchPosts() {
     payload: request
   };
 }
+ 
